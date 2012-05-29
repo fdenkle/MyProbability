@@ -3,6 +3,9 @@ MyProbability
 
 Google Code Jam Round 1A 2012
 
+original problem
+================
+
 The original problem: https://code.google.com/codejam/contest/1645485/dashboard
 
 I have a really long password, and sometimes I make a mistake when I type it. Right now I've typed part of my password, but I might have made some mistakes. In particular, I might have pressed the wrong key while typing one or more of the previous characters. Given how likely I was to get each character right, what should I do?
